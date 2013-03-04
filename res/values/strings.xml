@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">HuaXiaClient</string>
+    <string name="menu_about">关于</string>
+    <string name="title_activity_login">登录</string>
+    <string name="login_tv_title">登录</string>
+    <string name="login_tv_username">学号</string>
+    <string name="login_tv_password">密码</string>
+    <string name="login_cb_rempwd">记住密码</string>
+    <string name="login_rb_tel">电信网</string>
+    <string name="login_rb_cer">教育网</string>
+    <string name="login_btn_submit">确定</string>
+    <string name="login_btn_cancel">退出</string>
+    <string name="title_activity_select">功能选择</string>
+    <string name="hello">，你好！</string>
+    <string name="major">专业：</string>
+    <string name="classnum">班级：</string>
+    <string name="num">学号：</string>
+    <string name="title_activity_score">成绩</string>
+    <string name="year">学年：</string>
+    <string name="term"> |学期：</string>
+    <string name="type"> |课程类型：</string>
+    <string name="name">课程：</string>
+    <string name="score">成绩：</string>
+    <string name="teacher"> | 周：</string>
+    <string name="mkescore">补考：</string>
+    <string name="rescore"> |重修：</string>
+    <string name="credit"> |学分：</string>
+    <string name="test"> |考核方式：</string>
+    <string name="title_activity_table">课程表</string>
+    <string name="de_name">课程名：</string>
+    <string name="de_times">节次：</string>
+    <string name="de_time"> |教师：</string>
+    <string name="de_teacher"> |周：</string>
+    <string name="de_room">教室：</string>
+
+</resources>
